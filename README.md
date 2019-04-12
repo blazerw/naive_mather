@@ -8,6 +8,8 @@ NaiveMather.calculate("3 + 4 * (3 + 4)")
 ```
 Only handles +, -, *, /, and parentheses.
 
+[![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](<LINK-TO-YOUR-DOCUMENTATION>)
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:

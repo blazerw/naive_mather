@@ -2,6 +2,7 @@ require "./lexer"
 
 module NaiveMather
   DEBUG = false
+
   class Parser
     def parse(input)
       @lexer = Lexer.new(input)
