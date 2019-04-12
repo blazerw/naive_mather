@@ -8,7 +8,9 @@ NaiveMather.calculate("3 + 4 * (3 + 4)")
 ```
 Only handles +, -, *, /, and parentheses.
 
-[![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](<LINK-TO-YOUR-DOCUMENTATION>)
+[![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](https://github.com/blazerw/naive_mather/docs/)
+[![GitHub release](https://img.shields.io/github/release/blazerw/naive_mather.svg)](https://github.com/blazerw/naive_mather/releases)
+
 
 ## Installation
 
@@ -30,7 +32,7 @@ Just pass your equation String to NaiveMather.calculate()
 
 ## Development
 
-Follow Crystal's guidelines: https://crystal-lang.org/reference/guides/writing_shards.html and realize that I'm using [Spec2](https://github.com/waterlink/spec2.cr) for testing, specifically this [fork](https://github.com/ThunderKey/spec2.cr)
+Follow Crystal's guidelines: https://crystal-lang.org/reference/guides/writing_shards.html and realize that [Spec2](https://github.com/waterlink/spec2.cr) is used for testing, specifically this [fork](https://github.com/ThunderKey/spec2.cr)
 
 ## Contributing
 
@@ -43,4 +45,4 @@ Follow Crystal's guidelines: https://crystal-lang.org/reference/guides/writing_s
 ## Contributors
 
 - [Randy Wilson](https://github.com/blazerw) - creator and maintainer
-  [Lukasz Wrobel](https://lukaszwrobel.pl/) - Ruby version, the "real" creator
+- [Lukasz Wrobel](https://lukaszwrobel.pl/) - Ruby version, the "real" creator
