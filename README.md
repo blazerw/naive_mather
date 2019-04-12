@@ -8,7 +8,7 @@ NaiveMather.calculate("3 + 4 * (3 + 4)")
 ```
 Only handles +, -, *, /, and parentheses.
 
-[![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](https://github.com/blazerw/naive_mather/docs/)
+[![Docs](https://img.shields.io/badge/docs-available-brightgreen.svg)](https://blazerw.github.io/naive_mather/)
 [![GitHub release](https://img.shields.io/github/release/blazerw/naive_mather.svg)](https://github.com/blazerw/naive_mather/releases)
 
 
