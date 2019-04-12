@@ -1,4 +1,6 @@
 name: naive_mather
+description: |
+  Crystal Shard that calculates result of a text-base equation.
 version: 0.1.0
 
 authors:
